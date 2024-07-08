@@ -1,3 +1,3 @@
-# Tab Manager
+# Tab Conductor
 
-A browser extension for managing tabs.
+A browser extension for managing tabs efficiently.

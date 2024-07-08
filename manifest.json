@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Tab Manager",
+  "name": "Tab Conductor",
   "version": "1.0",
 
-  "description": "Manage tabs.",
+  "description": "Manage tabs efficiently.",
 
   "commands": {
     "move-to-new-window": {
@@ -20,7 +20,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "tabmanager@tylerkindy.com"
+      "id": "tabconductor@tylerkindy.com"
     }
   }
 }
