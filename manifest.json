@@ -10,6 +10,11 @@
       "suggested_key": {
         "default": "MacCtrl+W"
       }
+    },
+    "move-to-previous-window": {
+      "suggested_key": {
+        "default": "MacCtrl+Shift+W"
+      }
     }
   },
 
